@@ -7,10 +7,10 @@ Presenter and re-delivery materials for **Humans set direction. Agents close the
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides]({{SLIDES_URL}}) | Slides and speaker notes |
+| Presentation deck | [Slides]((https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoKRcCLdfsKQ6tJt5oz33HoEgUBKBTcwUVGz_r3_IAMUqAU6A)) | Slides and speaker notes |
 | Session recording | [Watch recording](https://www.youtube.com/watch?v=BR65KdRfGvY) | See the talk and demo delivered |
-| Presenter guide | [Presenter guide]({{PRESENTER_GUIDE_URL}}) | Talk track, timing, and transitions |
-| Demo resources | [Demo guide / repository]({{DEMO_URL}}) | Setup, steps, and expected result |
+| Presenter guide | [Presenter guide](sessions\Breakout Sessions\humans-set-direction-agents-close-the-loop\speaker-resources\speaker-guide.md) | Talk track, timing, and transitions |
+| Demo resources | Need Demo | Setup, steps, and expected result |
 
 
 > Replace placeholders and remove any unavailable resources.
@@ -26,27 +26,10 @@ Presenter and re-delivery materials for **Humans set direction. Agents close the
 
 ## 2. Deliver the talk
 
-**Duration:** {{DURATION}} minutes
-
-| Part | Slides / timing | What to cover |
-| --- | --- | --- |
-| Introduction | {{SLIDES_AND_MINUTES}} | {{OPENING_MESSAGE}} |
-| Main presentation | {{SLIDES_AND_MINUTES}} | {{CORE_STORY}} |
-| Live demo | {{SLIDES_AND_MINUTES}} | {{DEMO_PURPOSE}} |
-| Wrap-up | {{SLIDES_AND_MINUTES}} | {{KEY_TAKEAWAY}} |
 
 Use the presenter guide for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
 
 ## 3. Reproduce the demo
-
-| Step | Instructions |
-| --- | --- |
-| Prerequisites | {{REQUIRED_ACCOUNT_TOOLS_AND_PERMISSIONS}} |
-| Setup | {{SETUP_STEPS_OR_LINK}} |
-| Starting state | {{WHAT_MUST_BE_READY_BEFORE_THE_DEMO}} |
-| Demo walkthrough | {{STEPS_OR_LINK_TO_WALKTHROUGH}} |
-| Expected result | {{WHAT_A_SUCCESSFUL_DEMO_SHOWS}} |
-| Backup | {{SCREENSHOTS_VIDEO_OR_COMPLETED_DEMO_LINK}} |
 
 Run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
 

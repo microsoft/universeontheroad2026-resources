@@ -10,6 +10,10 @@ See the [demo machine setup guide](demo-machine-setup/README.md) to prepare boot
 
 ## Sessions
 
+### Host Content
+
+- [Host Content](sessions/Host%20Content/README.md)
+
 ### Keynote
 
 - [Keynote](sessions/Keynote/README.md)

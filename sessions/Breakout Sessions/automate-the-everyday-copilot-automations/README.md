@@ -46,4 +46,4 @@ Review the [walkthrough video](https://microsofteur.sharepoint.com/:v:/t/Univers
 
 ## Support
 
-**Content owner:** {{OWNER_NAME}} — [GitHub]({{OWNER_GITHUB_URL}})
+**Content owner:** April Yoho — [GitHub](https://github.com/scubaninja)

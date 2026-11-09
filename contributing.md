@@ -20,8 +20,9 @@ For missing resources, broken links, or suggestions, open an issue describing th
 
 Keep session resources under the appropriate category:
 
-- `sessions/Host and Keynote/`: Opening keynote.
-- `sessions/Product Updates/`: Roadmap and product updates.
+- `sessions/Host Content/`: Host content.
+- `sessions/Keynote/`: Keynote.
+- `sessions/Product Updates/`: Product updates.
 - `sessions/Breakout Sessions/`: Individual subfolders for the remaining sessions.
 
 Each session has a `README.md` with **Recordings**, **Code**, and **Demos** entries. Replace "Coming soon." with descriptive links as resources become available, and leave unavailable entries clearly marked.

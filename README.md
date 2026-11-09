@@ -16,7 +16,7 @@ See the [demo machine setup guide](demo-machine-setup/README.md) to prepare boot
 
 ### Product Updates
 
-- [Roadmap and product updates](sessions/Product%20Updates/Roadmap%20and%20product%20updates/README.md)
+- [Product Updates](sessions/Product%20Updates/README.md)
 
 ### Breakout Sessions
 

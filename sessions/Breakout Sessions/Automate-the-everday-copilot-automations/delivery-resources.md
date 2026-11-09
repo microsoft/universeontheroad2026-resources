@@ -1,113 +1,62 @@
 
-# Delivery Resources
+# Delivery resources
 
-Presenter, re-delivery, and train-the-trainer materials for **{{SESSION_ID}}: {{SESSION_TITLE}}**.
-
-This guide provides everything needed to prepare, deliver, and reproduce this session for different audiences and events.
-
-## Session overview
-
-| Item | Details |
-|------|---------|
-| Session | {{SESSION_TITLE}} |
-| Session ID | {{SESSION_ID}} |
-| Duration | {{DURATION}} minutes |
-| Format | {{SESSION_FORMAT}} |
-| Audience | {{TARGET_AUDIENCE}} |
-| Content owner | {{CONTENT_OWNER}} |
-| Last updated | {{LAST_UPDATED}} |
-
-### Session objectives
-
-By the end of this session, attendees should be able to:
-
-- {{LEARNING_OBJECTIVE_1}}
-- {{LEARNING_OBJECTIVE_2}}
-- {{LEARNING_OBJECTIVE_3}}
+Presenter and re-delivery materials for **{{SESSION_ID}}: {{SESSION_TITLE}}**.
 
 ## Core materials
 
-| Item | Link | Notes |
-|------|------|-------|
-| Delivery deck | [English slides]({{SLIDES_EN_URL}}) | Presentation slides |
-| Localized deck | [Additional languages]({{SLIDES_LOCALIZED_URL}}) | Where available |
-| Session recording | [Watch recording]({{RECORDING_URL}}) | Reference delivery and demonstrations |
-| Attendee resources | [Session README]({{ATTENDEE_README_URL}}) | Public starting point |
-| Demo repository | [GitHub repository]({{DEMO_REPO_URL}}) | Source code and demo assets |
-| Lab instructions | [Attendee instructions]({{LAB_URL}}) | Hands-on or self-paced exercises |
-| Presenter guidance | [Presenter guide]({{PRESENTER_GUIDE_URL}}) | Timing, talk track, and demo guidance |
+| Item | Link | Purpose |
+| --- | --- | --- |
+| Presentation deck | [Slides]({{SLIDES_URL}}) | Slides and speaker notes |
+| Session recording | [Watch recording]({{RECORDING_URL}}) | See the talk and demo delivered |
+| Presenter guide | [Presenter guide]({{PRESENTER_GUIDE_URL}}) | Talk track, timing, and transitions |
+| Demo resources | [Demo guide / repository]({{DEMO_URL}}) | Setup, steps, and expected result |
+| Session page | [Session README](../README.md) | Resources to share after the talk |
 
-> **Note:** Remove rows that do not apply to this session.
+> Replace placeholders and remove any unavailable resources.
 
-## Delivery checklist
+## 1. Learn the presentation
 
-Before delivering this session:
+1. Read the slides and speaker notes from start to finish.
+2. Watch the recording to understand the narrative, pacing, and demo transitions.
+3. Review the presenter guide for key messages and slide-specific talking points.
+4. Practice the presentation aloud, including transitions into and out of the demo.
 
-- [ ] Review the session objectives and key messages.
-- [ ] Review the presentation deck and speaker notes.
-- [ ] Watch the session recording, if available.
-- [ ] Review the presenter guide and run of show.
-- [ ] Ensure access to all required accounts and services.
-- [ ] Validate the demo environment and prerequisites.
-- [ ] Run through all demonstrations or lab exercises.
-- [ ] Prepare backup screenshots or completed demo states.
-- [ ] Verify all attendee-facing links and resources.
-- [ ] Confirm the environment is ready for delivery.
+**Main message:** {{ONE_SENTENCE_KEY_MESSAGE}}
 
-## Session preparation
+## 2. Deliver the talk
 
-### Prerequisites
+**Duration:** {{DURATION}} minutes
 
-{{DESCRIPTION_OF_REQUIRED_ACCESS_TOOLS_AND_SETUP}}
+| Part | Slides / timing | What to cover |
+| --- | --- | --- |
+| Introduction | {{SLIDES_AND_MINUTES}} | {{OPENING_MESSAGE}} |
+| Main presentation | {{SLIDES_AND_MINUTES}} | {{CORE_STORY}} |
+| Live demo | {{SLIDES_AND_MINUTES}} | {{DEMO_PURPOSE}} |
+| Wrap-up | {{SLIDES_AND_MINUTES}} | {{KEY_TAKEAWAY}} |
 
-| Requirement | Details |
-|-------------|---------|
-| Accounts | {{REQUIRED_ACCOUNTS}} |
-| Licenses | {{REQUIRED_LICENSES}} |
-| Tools | {{REQUIRED_TOOLS}} |
-| Environment | {{ENVIRONMENT_REQUIREMENTS}} |
-| Demo assets | {{DEMO_ASSETS}} |
+Use the presenter guide for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
 
-### Environment setup
+## 3. Reproduce the demo
 
-Follow the [environment setup guide]({{ENVIRONMENT_SETUP_URL}}) to prepare the demonstration environment.
+| Step | Instructions |
+| --- | --- |
+| Prerequisites | {{REQUIRED_ACCOUNT_TOOLS_AND_PERMISSIONS}} |
+| Setup | {{SETUP_STEPS_OR_LINK}} |
+| Starting state | {{WHAT_MUST_BE_READY_BEFORE_THE_DEMO}} |
+| Demo walkthrough | {{STEPS_OR_LINK_TO_WALKTHROUGH}} |
+| Expected result | {{WHAT_A_SUCCESSFUL_DEMO_SHOWS}} |
+| Backup | {{SCREENSHOTS_VIDEO_OR_COMPLETED_DEMO_LINK}} |
 
-Before presenting, confirm:
+Run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
 
-- [ ] Required services and permissions are available.
-- [ ] Sample data and demo assets are configured.
-- [ ] All workflows and demonstrations run successfully.
-- [ ] Backup or recovery steps are available.
+## Final checklist
 
-## Run of show
+- [ ] Slides, speaker notes, and recording reviewed.
+- [ ] Talk rehearsed and timing confirmed.
+- [ ] Demo setup and walkthrough tested.
+- [ ] Backup ready and resource links checked.
 
-The [presenter guide]({{PRESENTER_GUIDE_URL}}) contains the detailed talk track, facilitation checkpoints, expected results, and recovery paths.
+## Support
 
-| Segment | Duration | Description |
-|---------|----------|-------------|
-| Introduction | {{TIME}} min | Context, objectives, and key messages |
-| Technical overview | {{TIME}} min | Key concepts and capabilities |
-| Demo / walkthrough | {{TIME}} min | Live demonstration |
-| Hands-on activity | {{TIME}} min | Guided attendee exercise, if applicable |
-| Wrap-up and Q&A | {{TIME}} min | Key takeaways and next steps |
-
-**Total duration:** {{DURATION}} minutes
-
-## Demo reproducibility
-
-Resources required to reproduce the demonstration:
-
-- [Demo repository]({{DEMO_REPO_URL}})
-- [Setup instructions]({{DEMO_SETUP_URL}})
-- [Demo walkthrough]({{DEMO_WALKTHROUGH_URL}})
-
-### Expected results
-
-{{DESCRIPTION_OF_SUCCESSFUL_DEMO_OUTCOME}}
-
-### Troubleshooting and recovery
-
-If a demo fails during delivery:
-
-1. Refer to the troubleshooting guidance in the presenter guide.
-2. Use the prepared
+**Content owner:** {{OWNER_NAME}} — [GitHub]({{OWNER_GITHUB_URL}})

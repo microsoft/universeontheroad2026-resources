@@ -1,7 +1,5 @@
 # Speaker Guide: Automate the Everyday with Copilot Automations
 
-# Speaker Guide: Automate the Everyday with Copilot Automations
-
 ## Session overview
 
 This session demonstrates how GitHub Copilot Automations helps teams move beyond manually prompting AI to building autonomous workflows that reduce repetitive engineering work.

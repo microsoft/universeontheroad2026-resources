@@ -10,9 +10,9 @@ See the [demo machine setup guide](demo-machine-setup/README.md) to prepare boot
 
 ## Sessions
 
-### Host and Keynote
+### Keynote
 
-- [Opening keynote](sessions/Host%20and%20Keynote/Opening%20keynote/README.md)
+- [Keynote](sessions/Keynote/README.md)
 
 ### Product Updates
 

@@ -20,7 +20,7 @@ For missing resources, broken links, or suggestions, open an issue describing th
 
 Keep session resources under the appropriate category:
 
-- `sessions/Host and Keynote/`: Opening keynote.
+- `sessions/Keynote/`: Keynote.
 - `sessions/Product Updates/`: Roadmap and product updates.
 - `sessions/Breakout Sessions/`: Individual subfolders for the remaining sessions.
 

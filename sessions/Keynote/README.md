@@ -1,4 +1,4 @@
-# Opening keynote
+# Keynote
 
 - **Recordings:** Coming soon.
 - **Code:** Coming soon.

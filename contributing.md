@@ -29,6 +29,12 @@ Each session has a `README.md` with **Recordings**, **Code**, and **Demos** entr
 
 Use relative links for files in this repository. Encode spaces and special characters in Markdown link destinations.
 
+## Large files
+
+PowerPoint (`.pptx`) and video (`.mp4`) files are tracked with [Git LFS](https://git-lfs.com/). Install Git LFS and run `git lfs install` before adding these resources. After cloning, run `git lfs pull` to download the actual files if only pointer files are present.
+
+GitHub blocks regular Git files larger than 100 MiB. LFS uploads use the repository's LFS storage and bandwidth allowances.
+
 ## Sharing guidelines
 
 Only submit content you own or have permission to publish. Do not include credentials, personal information, confidential customer material, or internal-only links. Keep discussions respectful and focused on improving the resources.

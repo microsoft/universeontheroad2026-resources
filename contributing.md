@@ -11,21 +11,24 @@ For missing resources, broken links, or suggestions, open an issue describing th
 ## Submit a pull request
 
 1. Fork the repository and create a branch for your change.
-2. Make focused edits in the appropriate session folder.
+2. Make focused edits in the appropriate session folder or in `shared/`.
 3. Update the root [README.md](README.md) when adding, renaming, or moving a session.
 4. Check Markdown formatting and confirm that all changed links lead to the intended resources.
 5. Open a pull request explaining what changed and which session it affects. Link any related issue.
 
 ## Resource organization
 
-Keep session resources under the appropriate category:
+Each session has its own folder under `sessions/`, named `session-NN-name` with a two-digit number and a lowercase, hyphenated name. Each session folder contains:
 
-- `sessions/Host Content/`: Host content.
-- `sessions/Keynote/`: Keynote.
-- `sessions/Product Updates/`: Product updates.
-- `sessions/Breakout Sessions/`: Individual subfolders for the remaining sessions.
+- `README.md`: Presentation resources table and the **Before presenting** checklist.
+- `deck/presentation.pptx`: Latest approved slides.
+- `speaker-guide.md`: Narrative, talking points, and timing.
+- `transcript.md`: Full AI-generated reference transcript.
+- `demo-prep.md`: Demo setup, validation, and fallback.
 
-Each session has a `README.md` with **Recordings**, **Code**, and **Demos** entries. Replace "Coming soon." with descriptive links as resources become available, and leave unavailable entries clearly marked.
+Guidance that applies across sessions belongs in `shared/`: `event-guidance.md` for event-wide guidance and `city-notes.md` for city-specific changes. The root `SPEAKER-GUIDE.md` explains how speakers use these resources.
+
+Replace "Coming soon." with content or descriptive links as resources become available, and leave unavailable entries clearly marked.
 
 Use relative links for files in this repository. Encode spaces and special characters in Markdown link destinations.
 

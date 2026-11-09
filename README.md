@@ -2,35 +2,56 @@
 
 Welcome to the resource center for Universe on the Road 2026, hosted by GitHub.
 
-Recordings, code, and demos from the technical sessions will be available here. All resources are coming soon.
+Presentation decks, speaker guides, transcripts, and demo resources for each session will be available here. All resources are coming soon.
 
-## Demo Machine Setup
+## Repository structure
 
-See the [demo machine setup guide](demo-machine-setup/README.md) to prepare booth and demo machines for the event.
+```text
+universeontheroad2026-resources/
+├── README.md
+├── SPEAKER-GUIDE.md
+├── sessions/
+│   └── session-NN-name/
+│       ├── README.md
+│       ├── deck/
+│       │   └── presentation.pptx
+│       ├── speaker-guide.md
+│       ├── transcript.md
+│       └── demo-prep.md
+└── shared/
+    ├── event-guidance.md
+    └── city-notes.md
+```
+
+## Speakers
+
+- [Speaker guide](SPEAKER-GUIDE.md): How to prepare for any session.
+- [Event guidance](shared/event-guidance.md): Guidance for every stop, including [demo machine setup](shared/event-guidance.md#demo-machine-setup).
+- [City notes](shared/city-notes.md): City-specific changes to check before presenting.
 
 ## Sessions
 
 ### Host Content
 
-- [Host Content](sessions/Host%20Content/README.md)
+- [Host Content](sessions/session-01-host-content/README.md)
 
 ### Keynote
 
-- [Keynote](sessions/Keynote/README.md)
+- [Keynote](sessions/session-02-keynote/README.md)
 
 ### Product Updates
 
-- [Product Updates](sessions/Product%20Updates/README.md)
+- [Product Updates](sessions/session-03-product-updates/README.md)
 
 ### Breakout Sessions
 
-- [Customer success story and Q&A](sessions/Breakout%20Sessions/Customer%20success%20story%20and%20Q%26A/README.md)
-- [Agentic engineering past the pilot: An enterprise playbook](sessions/Breakout%20Sessions/Agentic%20engineering%20past%20the%20pilot%20-%20An%20enterprise%20playbook/README.md)
-- [Humans set direction. Agents close the loop](sessions/Breakout%20Sessions/Humans%20set%20direction.%20Agents%20close%20the%20loop/README.md)
-- [Automating PR quality with Copilot CLI and GitHub Actions](sessions/Breakout%20Sessions/Automating%20PR%20quality%20with%20Copilot%20CLI%20and%20GitHub%20Actions/README.md)
-- [Agentic security for every developer](sessions/Breakout%20Sessions/Agentic%20security%20for%20every%20developer/README.md)
-- [Build once, run on any agent: a practical guide to agent skills](sessions/Breakout%20Sessions/Build%20once%2C%20run%20on%20any%20agent%20-%20a%20practical%20guide%20to%20agent%20skills/README.md)
-- [Leadership Q&A Session](sessions/Breakout%20Sessions/Leadership%20Q%26A%20Session/README.md)
+- [Customer success story and Q&A](sessions/session-04-customer-success-story-and-qa/README.md)
+- [Agentic engineering past the pilot: An enterprise playbook](sessions/session-05-agentic-engineering-past-the-pilot/README.md)
+- [Humans set direction. Agents close the loop](sessions/session-06-humans-set-direction-agents-close-the-loop/README.md)
+- [Automating PR quality with Copilot CLI and GitHub Actions](sessions/session-07-automating-pr-quality-with-copilot-cli/README.md)
+- [Agentic security for every developer](sessions/session-08-agentic-security-for-every-developer/README.md)
+- [Build once, run on any agent: a practical guide to agent skills](sessions/session-09-build-once-run-on-any-agent/README.md)
+- [Leadership Q&A Session](sessions/session-10-leadership-qa/README.md)
 
 ## Contributing, security, and support
 

@@ -1,19 +1,15 @@
 
 # Delivery resources
 
-Presenter and re-delivery materials for **{{SESSION_ID}}: {{SESSION_TITLE}}**.
+Presenter and re-delivery materials for **Automate the everyday with Copilot Automations**.
 
 ## Core materials
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides]({{SLIDES_URL}}) | Slides and speaker notes |
-| Session recording | [Watch recording]({{RECORDING_URL}}) | See the talk and demo delivered |
-| Presenter guide | [Presenter guide]({{PRESENTER_GUIDE_URL}}) | Talk track, timing, and transitions |
-| Demo resources | [Demo guide / repository]({{DEMO_URL}}) | Setup, steps, and expected result |
-| Session page | [Session README](../README.md) | Resources to share after the talk |
-
-> Replace placeholders and remove any unavailable resources.
+| Presentation deck | [Automate-the-everyday-with-Copilot-Automations.pptx](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoYiR5f9x5dQ7zfPErhAv69EgUBKkl8VIb5WUwF4NS8jPMN_w) | Slides and speaker notes |
+| Session recording | [walkthrough.mp4](https://microsofteur.sharepoint.com/:v:/t/UniverseontheRoad/cQo0DHxmhrhcQqMeRVWP1h9GEgUBnXRlRBa36yYMNJi2ug-rEw) | See the talk and demo delivered |
+| Presenter guide | [presenter-guide.md](speaker-resources/presenter-guide.md) | Talk track, timing, and transitions |
 
 ## 1. Learn the presentation
 
@@ -22,33 +18,24 @@ Presenter and re-delivery materials for **{{SESSION_ID}}: {{SESSION_TITLE}}**.
 3. Review the presenter guide for key messages and slide-specific talking points.
 4. Practice the presentation aloud, including transitions into and out of the demo.
 
-**Main message:** {{ONE_SENTENCE_KEY_MESSAGE}}
+**Main message:** AI has made coding faster, but the rest of the software development lifecycle hasn't kept pace. Copilot Automations helps teams automate those bottlenecks while maintaining quality and control.
 
 ## 2. Deliver the talk
 
-**Duration:** {{DURATION}} minutes
-
-| Part | Slides / timing | What to cover |
+| Part | Slides | What to cover |
 | --- | --- | --- |
-| Introduction | {{SLIDES_AND_MINUTES}} | {{OPENING_MESSAGE}} |
-| Main presentation | {{SLIDES_AND_MINUTES}} | {{CORE_STORY}} |
-| Live demo | {{SLIDES_AND_MINUTES}} | {{DEMO_PURPOSE}} |
-| Wrap-up | {{SLIDES_AND_MINUTES}} | {{KEY_TAKEAWAY}} |
+| Setting the scene | 1–15 | AI has accelerated development, but faster coding creates new bottlenecks in reviews, testing, and delivery. Introduce the shift from manually prompting AI to building automated engineering systems. |
+| Introducing Copilot Automations | 16–22 | The three building blocks: **triggers, prompts, and tools**. Highlight permissions, integrations, and cost controls, and how automations run independently within defined boundaries. |
+| Demonstrating Copilot Automations | 23–26 | Show an automation capturing screenshots and videos of UI changes in pull requests, how this reduces manual review effort, and how Copilot can help create automations. |
+| Continuous improvement | 27–34 | How automations use execution logs and feedback to identify improvements. Introduce automation groups and self-improving workflows, using the screenshot automation as the example. |
+| End-to-end automation | 35–38 | Demo four connected automations: **Bug creator** (issue from a Sentry event), **Reproducer** (reproduces the bug and captures evidence), **Fixer** (opens a PR with a proposed fix), and **Validator** (verifies the fix). |
+| Wrap-up | 39 | Automations move teams beyond manual prompting. Combining triggers, prompts, and tools reduces toil and helps teams deliver completed, high-quality software faster. |
 
-Use the presenter guide for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
+Use the [presenter guide](speaker-resources/presenter-guide.md) for the full talk track and the [session transcript](speaker-resources/CopilotAutomationsTranscript.docx) for detailed narration. Switch to previously completed automation runs as a backup if a live demo fails.
 
 ## 3. Reproduce the demo
 
-| Step | Instructions |
-| --- | --- |
-| Prerequisites | {{REQUIRED_ACCOUNT_TOOLS_AND_PERMISSIONS}} |
-| Setup | {{SETUP_STEPS_OR_LINK}} |
-| Starting state | {{WHAT_MUST_BE_READY_BEFORE_THE_DEMO}} |
-| Demo walkthrough | {{STEPS_OR_LINK_TO_WALKTHROUGH}} |
-| Expected result | {{WHAT_A_SUCCESSFUL_DEMO_SHOWS}} |
-| Backup | {{SCREENSHOTS_VIDEO_OR_COMPLETED_DEMO_LINK}} |
-
-Run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
+Review the [walkthrough video](https://microsofteur.sharepoint.com/:v:/t/UniverseontheRoad/cQo0DHxmhrhcQqMeRVWP1h9GEgUBnXRlRBa36yYMNJi2ug-rEw) and the [session transcript](speaker-resources/CopilotAutomationsTranscript.docx) to understand each demo, then recreate it using your own repositories. Confirm access before the event, have the demo links open in separate browser tabs, and prepare previously completed automation runs as backups.
 
 ## Final checklist
 

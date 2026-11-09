@@ -1,17 +1,17 @@
 
 # Delivery resources
 
-Presenter and re-delivery materials for **{{SESSION_ID}}: {{SESSION_TITLE}}**.
+Presenter and re-delivery materials for **Humans set direction. Agents close the loop**.
 
 ## Core materials
 
 | Item | Link | Purpose |
 | --- | --- | --- |
 | Presentation deck | [Slides]({{SLIDES_URL}}) | Slides and speaker notes |
-| Session recording | [Watch recording]({{RECORDING_URL}}) | See the talk and demo delivered |
+| Session recording | [Watch recording](https://www.youtube.com/watch?v=BR65KdRfGvY) | See the talk and demo delivered |
 | Presenter guide | [Presenter guide]({{PRESENTER_GUIDE_URL}}) | Talk track, timing, and transitions |
 | Demo resources | [Demo guide / repository]({{DEMO_URL}}) | Setup, steps, and expected result |
-| Session page | [Session README](../README.md) | Resources to share after the talk |
+
 
 > Replace placeholders and remove any unavailable resources.
 
@@ -59,4 +59,4 @@ Run the demo end-to-end before presenting. Confirm the expected result and that 
 
 ## Support
 
-**Content owner:** {{OWNER_NAME}} — [GitHub]({{OWNER_GITHUB_URL}})
+**Content owner:** April Yoho — [GitHub](https://github.com/scubaninja)

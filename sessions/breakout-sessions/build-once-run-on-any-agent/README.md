@@ -1,19 +1,16 @@
 
 # Delivery resources
 
-Presenter and re-delivery materials for **Humans set direction. Agents close the loop**.
+Presenter and re-delivery materials for **Build once, run on any agent**.
 
 ## Core materials
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides]((https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoKRcCLdfsKQ6tJt5oz33HoEgUBKBTcwUVGz_r3_IAMUqAU6A)) | Slides and speaker notes |
-| Session recording | [Watch recording](https://www.youtube.com/watch?v=BR65KdRfGvY) | See the talk and demo delivered |
-| Presenter guide | [Presenter guide](sessions\Breakout Sessions\humans-set-direction-agents-close-the-loop\speaker-resources\speaker-guide.md) | Talk track, timing, and transitions |
-| Demo resources | Need Demo | Setup, steps, and expected result |
+| Presentation deck | [Slides](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQorcuPyjO47Q72lf1qP1CgfEgUBBSX7m8yQYKaZa-qMsr36Vw) | Slides and speaker notes |
+| Presenter guide | [presenter-guide.md](sessions\Breakout Sessions\build-once-run-on-any-agent\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
+| Demo resources | [Demo guide / repository](https://github.com/githubevents/build-once-run-on-any-agent) | Setup, steps, and expected result |
 
-
-> Replace placeholders and remove any unavailable resources.
 
 ## 1. Learn the presentation
 
@@ -22,14 +19,13 @@ Presenter and re-delivery materials for **Humans set direction. Agents close the
 3. Review the presenter guide for key messages and slide-specific talking points.
 4. Practice the presentation aloud, including transitions into and out of the demo.
 
-**Main message:** {{ONE_SENTENCE_KEY_MESSAGE}}
-
 ## 2. Deliver the talk
 
-
-Use the presenter guide for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
+Use the presenter guide for the full talk track. 
 
 ## 3. Reproduce the demo
+
+Use the [repository](https://github.com/githubevents/build-once-run-on-any-agent) to run the demos, recordings and all other content to configure the demo.
 
 Run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
 

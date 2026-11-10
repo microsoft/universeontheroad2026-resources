@@ -1,17 +1,15 @@
 
 # Delivery resources
 
-Presenter and re-delivery materials for **Agentic engineering past the playbook**.
+Presenter and re-delivery materials for **Stop waiting on your own pull requests: GitHub Stacked PRs in practice**.
 
 ## Core materials
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQrEgeuEABYqR4pRArRDxODvEgUB0MoWrgftxM16Bu8B9sJ53A) | Slides and speaker notes |
-| Session recording | No recording available, notes are available in the deck above | |
-| Presenter guide | [Presenter guide](sessions\Breakout Sessions\agentic-engineering-past-the-playbook\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
-| Demo resources | Located in the deck |  |
-
+| Presentation deck | [Stacked-PRs.pptx](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoERoEpbTG-Q7t_xpeQdT6NEgUBW2ltjYz4Y25fRvWffHbebQ) | Slides and speaker notes |
+| Session recording | [YouTube Recording](https://www.youtube.com/watch?v=6bv4VZUM2kg) | See the talk and demo delivered |
+| Presenter guide | [presenter-guide.md](sessions\demos-and-donuts\stacked-prs\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
 
 ## 1. Learn the presentation
 
@@ -20,14 +18,13 @@ Presenter and re-delivery materials for **Agentic engineering past the playbook*
 3. Review the presenter guide for key messages and slide-specific talking points.
 4. Practice the presentation aloud, including transitions into and out of the demo.
 
-
 ## 2. Deliver the talk
 
-Use the notes found in the slide deck.
+Speaker notes are provided in the deck. Please watch the YouTube video to learn the session.
 
 ## 3. Reproduce the demo
 
-No live demos were used, leverage the demos located in the deck.
+The demo is built into the deck, please feel free to add a live component for the demo.
 
 ## Final checklist
 

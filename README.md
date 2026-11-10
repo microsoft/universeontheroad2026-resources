@@ -1,8 +1,15 @@
 # Universe on the Road 2026 Resource Center
 
-Welcome to the resource center for Universe on the Road 2026, hosted by GitHub.
+This repository contains presentation decks, speaker guides, recordings, and demo resources for GitHub Universe on the Road 2026. Select your session below to access the materials needed to prepare, rehearse, and deliver your presentation. Resource availability varies by session.
 
-Recordings, code, and demos from the technical sessions will be available here. All resources are coming soon.
+## How to prepare
+
+1. Find your session in the list below and open its README.
+2. Review the presentation deck and speaker notes, then read the presenter guide where one is provided.
+3. Watch the session recording, where available, to learn the narrative, pacing, and demo transitions.
+4. Set up and rehearse any demos, and prepare a backup.
+
+Each session README lists the materials available for that session. Resources that are not yet available are marked as such, along with the content owner to contact.
 
 ## Demo Machine Setup
 
@@ -12,7 +19,7 @@ See the [demo machine setup guide](demo-machine-setup/README.md) to prepare boot
 
 ### Host Content
 
-- [Host Content](sessions/Host%20Content/README.md)
+- [Host Content](sessions/host-content/README.md)
 
 ### Keynote
 
@@ -20,17 +27,30 @@ See the [demo machine setup guide](demo-machine-setup/README.md) to prepare boot
 
 ### Product Updates
 
-- [Product Updates](sessions/Product%20Updates/README.md)
+- [Product Updates](sessions/product-updates/README.md)
+
+### Customer Success Story
+
+- [Customer success story and Q&A](sessions/customer-success-story-session/README.md)
 
 ### Breakout Sessions
 
-- [Customer success story and Q&A](sessions/Breakout%20Sessions/Customer%20success%20story%20and%20Q%26A/README.md)
-- [Agentic engineering past the pilot: An enterprise playbook](sessions/Breakout%20Sessions/Agentic%20engineering%20past%20the%20pilot%20-%20An%20enterprise%20playbook/README.md)
-- [Humans set direction. Agents close the loop](sessions/Breakout%20Sessions/Humans%20set%20direction.%20Agents%20close%20the%20loop/README.md)
-- [Automating PR quality with Copilot CLI and GitHub Actions](sessions/Breakout%20Sessions/Automating%20PR%20quality%20with%20Copilot%20CLI%20and%20GitHub%20Actions/README.md)
-- [Agentic security for every developer](sessions/Breakout%20Sessions/Agentic%20security%20for%20every%20developer/README.md)
-- [Build once, run on any agent: a practical guide to agent skills](sessions/Breakout%20Sessions/Build%20once%2C%20run%20on%20any%20agent%20-%20a%20practical%20guide%20to%20agent%20skills/README.md)
-- [Leadership Q&A Session](sessions/Breakout%20Sessions/Leadership%20Q%26A%20Session/README.md)
+See the [breakout sessions overview](sessions/breakout-sessions/README.md) for format and presenter guidelines.
+
+- [Agentic engineering past the pilot: An enterprise playbook](sessions/breakout-sessions/agentic-engineering-past-the-playbook/README.md)
+- [Humans set direction. Agents close the loop](sessions/breakout-sessions/humans-set-direction-agents-close-the-loop/README.md)
+- [Automate the everyday with Copilot Automations](sessions/breakout-sessions/automate-the-everyday-copilot-automations/README.md)
+- [Agentic security for every developer](sessions/breakout-sessions/agentic-security-for-every-developer/README.md)
+- [Build once, run on any agent: A practical guide to agent skills](sessions/breakout-sessions/build-once-run-on-any-agent/README.md)
+- [Ask the Experts](sessions/breakout-sessions/ask-the-experts/README.md)
+
+### Demos & Donuts
+
+See the [Demos & Donuts overview](sessions/demos-and-donuts/README.md) for format and presenter guidelines.
+
+- [Stop waiting on your own pull requests: GitHub Stacked PRs in practice](sessions/demos-and-donuts/stacked-prs/README.md)
+- [Rediscover the command line: Practical workflows with GitHub CLI](sessions/demos-and-donuts/practical-worksflows-copilot-cli/README.md)
+- [Supercharge Copilot code review with custom review instructions](sessions/demos-and-donuts/code-review-with-custom-instructions/README.md)
 
 ## Contributing, security, and support
 

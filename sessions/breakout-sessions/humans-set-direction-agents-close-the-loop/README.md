@@ -1,16 +1,16 @@
 
 # Delivery resources
 
-Presenter and re-delivery materials for **Agentic security for every developer**.
+Presenter and re-delivery materials for **Humans set direction. Agents close the loop**.
 
 ## Core materials
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQqHJUOf-oSLS4q_gqQOPSi6EgUBrTFO9cJPabj1QHi2MTO9Kg) | Slides and speaker notes |
-| Session recording | None provided | See the talk and demo delivered |
-| Presenter guide | [Presenter guide](sessions\Breakout Sessions\agentic-security-for-every-developer\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
-| Demo resources | [Demo guide / repository](https://github.com/dsp-testing/banking-customer-support/pull/7) | Setup, steps, and expected result |
+| Presentation deck | [Slides]((https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoKRcCLdfsKQ6tJt5oz33HoEgUBKBTcwUVGz_r3_IAMUqAU6A)) | Slides and speaker notes |
+| Session recording | [Watch recording](https://www.youtube.com/watch?v=BR65KdRfGvY) | See the talk and demo delivered |
+| Presenter guide | [presenter-guide.md](sessions\breakout-sessions\humans-set-direction-agents-close-the-loop\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
+| Demo resources | Need Demo | Setup, steps, and expected result |
 
 
 > Replace placeholders and remove any unavailable resources.
@@ -22,8 +22,10 @@ Presenter and re-delivery materials for **Agentic security for every developer**
 3. Review the presenter guide for key messages and slide-specific talking points.
 4. Practice the presentation aloud, including transitions into and out of the demo.
 
+**Main message:** {{ONE_SENTENCE_KEY_MESSAGE}}
 
 ## 2. Deliver the talk
+
 
 Use the presenter guide for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
 

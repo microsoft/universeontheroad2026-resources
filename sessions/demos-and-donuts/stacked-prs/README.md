@@ -9,7 +9,7 @@ Presenter and re-delivery materials for **Stop waiting on your own pull requests
 | --- | --- | --- |
 | Presentation deck | [Stacked-PRs.pptx](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQoERoEpbTG-Q7t_xpeQdT6NEgUBW2ltjYz4Y25fRvWffHbebQ) | Slides and speaker notes |
 | Session recording | [YouTube Recording](https://www.youtube.com/watch?v=6bv4VZUM2kg) | See the talk and demo delivered |
-| Presenter guide | [presenter-guide.md](sessions\demos-and-donuts\stacked-prs\speaker-resources\presenter-guide.md) | Talk track, timing, and transitions |
+| Presenter guide | [Presenter guide](speaker-resources/presenter-guide.md) | Talk track, timing, and transitions |
 
 ## 1. Learn the presentation
 
@@ -20,11 +20,11 @@ Presenter and re-delivery materials for **Stop waiting on your own pull requests
 
 ## 2. Deliver the talk
 
-Speaker notes are provided in the deck. Please watch the YouTube video to learn the session.
+Use the [presenter guide](speaker-resources/presenter-guide.md) and the speaker notes in the deck. Watch the recording to learn the session.
 
 ## 3. Reproduce the demo
 
-The demo is built into the deck, please feel free to add a live component for the demo.
+The demo is built into the deck. You can optionally add a live demo component.
 
 ## Final checklist
 

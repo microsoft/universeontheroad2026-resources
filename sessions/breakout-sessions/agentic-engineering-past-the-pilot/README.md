@@ -1,4 +1,3 @@
-
 # Delivery resources
 
 Presenter and re-delivery materials for **Agentic engineering past the pilot: An enterprise playbook**.

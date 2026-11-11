@@ -1,7 +1,5 @@
 # Speaker Guide: Agentic Engineering Past the Pilot — An Enterprise Playbook
 
-**GitHub Universe on the Road 2026**
-
 ## Session overview
 
 This session explores how enterprises can move beyond isolated AI coding pilots to adopt agentic engineering across the entire software development lifecycle.

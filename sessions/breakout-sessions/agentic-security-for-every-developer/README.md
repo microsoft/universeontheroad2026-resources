@@ -20,11 +20,11 @@ Presenter and re-delivery materials for **Agentic security for every developer**
 
 ## 2. Deliver the talk
 
-Use the [presenter guide](speaker-resources/presenter-guide.md) for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
+Use the [presenter guide](https://github.com/octodemo/agentic-security-for-every-developer/blob/main/DEMO_NOTES.md) for the full talk track. Keep to the planned timing and switch to the demo backup if needed.
 
 ## 3. Reproduce the demo
 
-Use the [demo repository](https://github.com/dsp-testing/banking-customer-support/pull/7) and run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
+Use the [demo repository](https://github.com/octodemo/agentic-security-for-every-developer) and run the demo end-to-end before presenting. Confirm the expected result and that the backup works.
 
 ## Final checklist
 

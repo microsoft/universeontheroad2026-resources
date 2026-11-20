@@ -9,7 +9,7 @@ Presenter instructions, event flow, and city-specific preparation checklist for 
 
 | Resource | Link | Purpose |
 | --- | --- | --- |
-| Host deck | **Action required:** Add the link to the approved, city-specific PowerPoint | Master slides for the event host |
+| Host deck | [Host Deck](https://microsofteur.sharepoint.com/:f:/t/UniverseontheRoad/cgr955BsL1GkS6v-25OhmefLEgUB4qMCfOJTf2rK7fP6HpIhQA) | Master slides for the event host |
 | Universe on the Road resources | [Event resources repository](https://github.com/microsoft/universeontheroad2026-resources) | Session delivery materials and supporting content |
 | Ship & Tell execution guide | [Ship & Tell README](https://github.com/microsoft/universeontheroad2026-resources/blob/main/sessions/ship-and-tell/README.md) | Submissions, finalist selection, stage format, voting, and team responsibilities |
 | Ship & Tell folder | [Ship & Tell resources](https://github.com/microsoft/universeontheroad2026-resources/tree/main/sessions/ship-and-tell) | Starting point for the local Ship & Tell team |

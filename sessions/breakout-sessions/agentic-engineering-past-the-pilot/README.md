@@ -6,7 +6,7 @@ Presenter and re-delivery materials for **Agentic engineering past the pilot: An
 
 | Item | Link | Purpose |
 | --- | --- | --- |
-| Presentation deck | [Slides](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQrEgeuEABYqR4pRArRDxODvEgUB0MoWrgftxM16Bu8B9sJ53A) | Slides and speaker notes |
+| Presentation deck | [Slides](https://microsofteur.sharepoint.com/:p:/t/UniverseontheRoad/cQrw7_CvVZMXSK0vDbd55vZaEgUBLSw-AXgCozAQFHrK9neaOw) | Slides and speaker notes |
 | Session recording | Not available — use the deck and speaker notes | |
 | Presenter guide | [Presenter guide](speaker-resources/presenter-guide.md) | Talk track, timing, and transitions |
 | Demo resources | Included in the deck | Recorded demos embedded in the slides |
